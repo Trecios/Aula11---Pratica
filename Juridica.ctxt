@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=nome\ endereco\ telefone\ cnpj\ nomeFantasia
+comment0.target=Juridica(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment0.text=\r\n\ COnstrutor\ para\ objetos\ da\ classe\ Fisica\r\n
+comment1.params=
+comment1.target=java.lang.String\ getCnpj()
+comment2.params=
+comment2.target=java.lang.String\ getNomeFantasia()
+comment3.params=nomeFantasia
+comment3.target=void\ setNomeFantasia(java.lang.String)
+comment4.params=
+comment4.target=void\ imprimirDados()
+numComments=5
